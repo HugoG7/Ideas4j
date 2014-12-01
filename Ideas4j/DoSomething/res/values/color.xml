@@ -1,0 +1,13 @@
+<resources>
+    <!-- Basic Colors -->
+    <color name="Negro">#000000</color>
+	<color name="Blanco">#FFFFFF</color>
+	<color name="Rojo">#FF0000</color>
+	<color name="Azul">#0040FF</color>
+	<color name="Verde">#00FF00</color>
+	<color name="Naranja">#FF8000</color>
+	<color name="Amarillo">#FFFF00</color>
+	<color name="Cafe">#F27500</color>
+	
+	<!-- Color to App -->
+</resources>

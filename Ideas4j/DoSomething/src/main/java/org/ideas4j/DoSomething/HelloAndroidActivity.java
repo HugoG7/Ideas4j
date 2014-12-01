@@ -2,7 +2,6 @@ package org.ideas4j.DoSomething;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.Menu;
 
 public class HelloAndroidActivity extends Activity {
@@ -22,7 +21,7 @@ public class HelloAndroidActivity extends Activity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
 	// Inflate the menu; this adds items to the action bar if it is present.
-	getMenuInflater().inflate(org.ideas4j.DoSomething.R.menu.main, menu);
+	getMenuInflater().inflate(org.ideas4j.DoSomething.R.menu.menubar, menu);
 	return true;
     }
 
